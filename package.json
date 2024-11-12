@@ -69,7 +69,7 @@
     "repositoryUrl": "https://github.com/3mpowered/Reactive.Extensions",
     "includeSymbols": true,
     "usePackageVersion": true,
-    "projectPath": "./src/Directory.Build.props"
+    "projectPath": "./src/Empowered.Reactive.Extensions/Empowered.Reactive.Extensions.csproj"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.4.1",
