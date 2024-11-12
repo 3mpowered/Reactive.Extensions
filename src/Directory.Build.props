@@ -1,12 +1,12 @@
 <Project>
     <PropertyGroup>
-        <Title>TODO</Title>
+        <Title>Empowered.Reactive.Extensions</Title>
         <Company>3mpowered</Company>
         <Authors>Simon Findling</Authors>
-        <Description>TODO</Description>
+        <Description>A library containing RX.NET extensions to be used for loose coupling.</Description>
         <RepositoryType>git</RepositoryType>
-        <RepositoryUrl>TODO</RepositoryUrl>
-        <PackageProjectUrl>TODO</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/3mpowered/Reactive.Extensions</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/3mpowered/Reactive.Extensions</PackageProjectUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
